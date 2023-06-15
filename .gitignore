@@ -10,6 +10,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+
+**/Icon.*
+Icon?
+**/Icon?.?
+
 # Package Files #
 *.jar
 *.war
